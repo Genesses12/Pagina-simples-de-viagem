@@ -6,11 +6,11 @@ body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
-    color:#966239;
+    color:#f36804;
     line-height: 1.6;
 }
 #showcase{
-    background-image: url(https://www.viagenscinematograficas.com.br/wp-content/uploads/2020/02/Melhores-Praias-do-Brasil-Capa-1024x490.jpg);
+    background-image: url(https://cdn.temporadalivre.com/blog-media/posts/cover/10001/size_800_as-10-praias-mais-bonitas-do-nordeste-brasileiro-e3f91d8d.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -43,13 +43,15 @@ body{
 }
 #section-1{
     padding: 20px;
-    background:#926239;
-    color: #fff;
+    background:#eb7750;
+    color: #fdfdfd;
     text-align: center;
 }
 #section-2{
+    margin-top: 1px;
+    background: rgb(187, 190, 196);
     padding: 20px;
-    color: #666262;
+    color: #706a6a;
     text-align: center; 
 }
 #section-3{
